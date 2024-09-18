@@ -2,7 +2,7 @@
   1. Place your old.csv and new.csv files in the same directory as this script.
   2. Run the script:
 
-        ```python compare_csv.py```
+```python compare_csv.py```
 
 # Functionality
   1. Load CSV Files: The script loads old.csv and new.csv into pandas DataFrames.
